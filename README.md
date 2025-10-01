@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QSAR Descriptor Calculator 🧪
 
 **A Streamlit app to calculate molecular descriptors, visualize them, and get AI-powered insights.**
@@ -17,3 +18,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/qsar-descriptor-calculator.git
+=======
+# QSAR-Descriptor-Calculator
+A Streamlit app for QSAR descriptor calculation, visualization, and AI-powered insights.
+>>>>>>> c288c2a711af0a60779886e8e5a8bf6cb28b1a88
